@@ -3,7 +3,7 @@
 /**
  * Třída pro vytvoření seznamu
  *
- * @author Jiří Hanuš <jiri.96@gmail.com>
+ * @author Jiří Hanuš <hanus.jiri.96@gmail.com>
  * @version 1.0
  * @package Si & WAP
  */
