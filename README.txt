@@ -1,0 +1,1 @@
+Zde je tøída k vytvoøení seznamu. Zadáme jakı chceme seznam jestli odrákovanı (UL) nebo èíslovanı (OL). Pak u jenom vkládáme data na jednotlivé rádky seznamu. Pøíklad uití je pod názvem pøíklad.
